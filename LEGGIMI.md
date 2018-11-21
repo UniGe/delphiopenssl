@@ -1,5 +1,6 @@
 # Delphi import unit per OpenSSL DLL
 (questa è la copia del vecchio sito https://www.disi.unige.it/person/FerranteM/delphiopenssl/)
+## Questo repository non è più mantenuto, potete trovarne una versione aggiornata qui: https://github.com/zizzo81/delphiopenssl
 
 [English version](README.md)
 
